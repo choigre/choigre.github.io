@@ -1,11 +1,11 @@
 # SITE CONFIGURATION
-baseurl: "/"
+baseurl: ""
 url: "https://choigre.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Type Theme
+  title: 줘니의 세상 이야기
   avatar: assets/img/avatar.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
@@ -13,9 +13,9 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+     <p>줘니의 일상을 여과없이 끄적여 보자</p>
 
-     <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
+     <p>내년 1월부터 아빠가 되는 줘니의 기상발칙한 블로그 시작!</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>

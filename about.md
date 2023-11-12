@@ -1,12 +1,28 @@
 ---
 layout: page
-title: About
+title: 넌 누구니?
 permalink: /about/
 feature-img: "assets/img/sample_feature_img_2.png"
 ---
 
-Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+첫인상은 날카로워보이지만
+몇마디 대화를 나눠보면
+의외로 엉뚱하고 웃음기많은 괴짜
 
-Head over to the [theme's documentation](https://rohanchandra.github.io/project/type/) for much more information about Type Theme or to install this theme on your own Jekyll site.
+세상 걱정없이 느긋하고 낙천적이며
+어느 하나에 꽂히면 그것만 파고드는
+불굴의 사이코 
+미소녀 화법에 빠져 pixiv에 빠진 오타쿠
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+제이쿼리에 의지해왔던 지난 과거를 반성하며 
+이제서야 바닐라 자바스크립트 문법을 각개격파중이며
+GIT 원리를 이제야 깨우쳐 탐독중인 느림보
+
+테크니컬적인 마인드는 어느 누구보다 느린
+아이러니 인생이지만 
+즐겨라
+살아갈 인생은 여전히 길다
+배움은 깊고 끝이 없다
+조급해하지 말자
+천천히 각개격파해 나가자
+
