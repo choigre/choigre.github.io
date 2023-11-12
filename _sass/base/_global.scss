@@ -22,44 +22,14 @@ html {
   background: $selection-color;
 }
 
-@font-face {
-  font-family: 'KoPub Dotum';
-  font-style: normal;
-  font-weight: 300;
-  src: url(//cdn.jsdelivr.net/font-kopub/1.0/KoPubDotum-Light.eot);
-  src: url(//cdn.jsdelivr.net/font-kopub/1.0/KoPubDotum-Light.eot?#iefix) format('embedded-opentype'),
-       url(//cdn.jsdelivr.net/font-kopub/1.0/KoPubDotum-Light.woff) format('woff'),
-       url(//cdn.jsdelivr.net/font-kopub/1.0/KoPubDotum-Light.ttf) format('truetype');
-}
-@font-face {
-  font-family: 'KoPub Dotum';
-  font-style: normal;
-  font-weight: 400;
-  src: url(//cdn.jsdelivr.net/font-kopub/1.0/KoPubDotum-Regular.eot);
-  src: url(//cdn.jsdelivr.net/font-kopub/1.0/KoPubDotum-Regular.eot?#iefix) format('embedded-opentype'),
-       url(//cdn.jsdelivr.net/font-kopub/1.0/KoPubDotum-Regular.woff) format('woff'),
-       url(//cdn.jsdelivr.net/font-kopub/1.0/KoPubDotum-Regular.ttf) format('truetype');
-}
-@font-face {
-  font-family: 'KoPub Dotum';
-  font-style: normal;
-  font-weight: 700;
-  src: url(//cdn.jsdelivr.net/font-kopub/1.0/KoPubDotum-Bold.eot);
-  src: url(//cdn.jsdelivr.net/font-kopub/1.0/KoPubDotum-Bold.eot?#iefix) format('embedded-opentype'),
-       url(//cdn.jsdelivr.net/font-kopub/1.0/KoPubDotum-Bold.woff) format('woff'),
-       url(//cdn.jsdelivr.net/font-kopub/1.0/KoPubDotum-Bold.ttf) format('truetype');
-}
-
 body {
   color: $text-color;
-  // font-family: $font-family-main;
-  font-family: 'KoPub Dotum';
+  font-family: $font-family-main;
   font-size: $font-size;
   word-wrap: break-word;
 }
 h1, h2, h3, h4, h5, h6 {
-  // font-family: $font-family-headings;
-  font-family: 'KoPub Dotum';
+  font-family: $font-family-headings;
   line-height: 1.2;
   margin: 0.67em 0;
   a {
